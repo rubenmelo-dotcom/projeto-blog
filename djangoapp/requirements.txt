@@ -1,3 +1,4 @@
 django>=6.0.1,<6.1
 psycopg2-binary>=2.9.11,<2.10
 pillow>=12.1.0,<12.2
+django-summernote>=0.8.20.0,<0.9
